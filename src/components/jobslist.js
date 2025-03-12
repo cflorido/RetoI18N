@@ -36,7 +36,7 @@ const JobsList = ({ locale }) => {
   return (
     <div>
       <table className="table">
-        <thead className={locale === "es" ? "thead-light" : "thead-dark"}>
+        <thead className={`table ${locale === "es" ? "table-light" : "table-dark"}`}>
           <tr>
             <th scope="col">#</th>
             <th scope="col">

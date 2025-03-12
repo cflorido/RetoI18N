@@ -4,5 +4,15 @@
     "Salary": "Salary",
     "City": "City",
     "PublicationDate": "Publication date",
-    "Views": "No. of views"
-}
+    "Views": "No. of views",
+    "Position.Manager": "Manager",
+    "Position.Software Engineer": "Software Engineer",
+    "Position.Nurse": "Nurse",
+    "Company.Schneider Electric": "Schneider Electric",
+    "Company.Google Inc.": "Google Inc.",
+    "Company.Clínica La Aurora": "Clínica La Aurora",
+    "City.Bogotá, Colombia": "Bogotá, Colombia",
+    "City.Palo Alto, CA, USA": "Palo Alto, CA, USA",
+    "City.Cali, Colombia": "Cali, Colombia"
+  }
+  
